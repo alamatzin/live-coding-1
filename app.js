@@ -20,5 +20,5 @@ function bigWords(string, array){
 function printList (array){
     array.forEach(element => {
         lista.innerHTML += `<li>${element}</li>`
-    });
+    }) ;
 }
